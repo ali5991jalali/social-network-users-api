@@ -1,8 +1,9 @@
 # users-service
 
-Technologies
+* Technologies
+``
 Node.js
 MongoDB
 Redis
 Elasticsearch
-
+``
